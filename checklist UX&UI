@@ -1,0 +1,15 @@
+# checklist for ux and ui
+
+Sjekk at det fungerer opp på 400%-zoom
+Sjekk at det fungerer med en skjermbredde ned til 320px i bredden
+Sjekk at alle interaktive elementer har en form for fokus-markering
+Kjør Axe (nettleser-plugin)
+
+Kjør Wave (nettleser-plugin)
+
+Gå gjennom utviklet funksjonalitet utelukkende ved bruk av tastaturnavigering
+
+Bruk tab-knappen for å se at du kan nå alle elementer som kan ha fokus (shift-tab for å navigere bakover)
+Gå gjennom utviklet funksjonalitet ved bruk av skjermleser
+Vær spesielt obs på feilmeldinger som oppstår ved utfylling
+Pass på at alle symboler har en beskrivelse (alt text på bilder, evt andre grep på ikoner)
