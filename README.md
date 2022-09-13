@@ -15,8 +15,10 @@ list of things and templates that i have found useful over the years when starti
 - [ ] Tegn en basic arkitektur tegning tidlig i prossessen; om ikke for prosjektet så gjør det for deg selv. Dette vil gjøre at du får et større overblikk over hva som må gjøres både backend og frontend.
 - [ ]   Hvor lang tid har du på deg til å gjøre det som skal gjøres, hvilke features er "must have" og hvilke er " nice to have "(henger litt sammen med 4).
 
+## Security testing 
+ ### The OWASP Testing Project: https://github.com/OWASP/wstg/tree/master/document/2-Introduction
 
-## frontend exploits
+## frontend exploits 
 
 check input fields for to see if it is possible to hack. 
 ```
